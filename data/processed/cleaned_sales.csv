@@ -1,0 +1,11 @@
+order_id,date,customer,category,product,quantity,unit_price,payment_status,total_amount,month
+1001,2025-01-05,john smith,electronics,mouse,2,25.5,paid,51.0,2025-01
+1002,2025-01-07,maria lopez,office,notebook,5,3.2,paid,16.0,2025-01
+1003,2025-01-10,alex brown,electronics,keyboard,1,75.0,pending,75.0,2025-01
+1004,2025-02-02,emma davis,furniture,chair,2,120.0,paid,240.0,2025-02
+1005,2025-02-12,john smith,office,pen pack,10,1.5,paid,15.0,2025-02
+1006,2025-02-20,carlos silva,electronics,monitor,1,230.0,paid,230.0,2025-02
+1007,2025-03-01,maria lopez,furniture,desk,1,310.0,paid,310.0,2025-03
+1008,2025-03-04,alex brown,electronics,webcam,2,55.0,cancelled,110.0,2025-03
+1009,2025-03-18,emma davis,office,paper ream,4,8.0,paid,32.0,2025-03
+1010,2025-03-25,carlos silva,electronics,usb-c hub,3,42.0,paid,126.0,2025-03
